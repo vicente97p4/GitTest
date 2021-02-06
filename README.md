@@ -1,3 +1,3 @@
 #Git study
 
-깃 공부 사이트
+깃 공부 사이트 (Clone Verion.)
