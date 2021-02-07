@@ -7,4 +7,4 @@
 1. git
 2. git 실습
 
-good
+bad
